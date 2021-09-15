@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+}
+
+.calculator {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  min-width: 40rem;
+  min-height: 50rem;
+  font-size: 7rem;
+  text-align: center;
+}
